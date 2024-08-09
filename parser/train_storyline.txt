@@ -1,0 +1,994 @@
+verified concern. found ac system to be at 50 psi, system low. inspected for leaks. no signs of leak found. performed evac, evac 3.8oz. spec is 26 oz. of  NEW SHIFTER KNOB INSTALLED AND TESTED, WORKING CORRECTLLY, KEY CAN BE NOW REMOVED FROM IGNITION
+removed tail lights. removed bumper fascia. removed bumper bar. installed tow hitch. cut bumper to fit tow hitch. installed bumper fascia. installed tail  REPLACED BOTH REAR DOOR MODULES AND REPROGRAMMED DDM AND PDM TO RESOLVE ISSUE
+REPLACE TAIL GATE RIGHT LAMP ASSY
+Verified check engine light was illuminated. Used IDS to retrieve DTCS.
+P0430 Catalyst System Efficiency Below Threshold (Bank 2)
+Performed visual inspection and ran oasis. No concerns were found. Referred to the workshop manual PCED and followed pinpoint test HF. HF1-yes, HF2-mo,  12650D
+12650DX1
+12650D45
+MT5F250
+3001A
+3001AXQ
+3001A6
+see line C
+inspected vehicle. found oil pan to be leaking. recommend gasket replacement
+programmed keys to vehicle. all checks ok
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed mount and balance of 2 tires
+replaced rear brake pads and rotors.
+REMOVED AND REPLACED UNDER VEHICLE PURGE CANISTER ASSM.  WAS DAMAGED DUE TO RUNNING OVER SOMETHING ETC.
+verified concern, found p0300. did not diagnose as per guest request. removed coil packs. removed sparkplugs. installed new sparkplugs. installed coil  Test drove to verify, checked vacuum at both front hubs and it was low. Inspected IWE vacuum line and found that something had chewed threw the vacuum line.  Need to replace vacuum hose and recheck IWE's
+severe oil pan gasket failure where the pan is located by the transmission
+Ran Diag code for passenger  side set belt buckle circuit, Inspected wiring and found ice scraper had pulled connector slightly out of buckle causing open  part still on order, should be here in a couple of days
+removed rear seat, and repositioned the seat belt buckle.
+999A
+verified concern, when road testing, feels like clutch is slipping when shifting gears. Referenced WSM symptom chart clutch shudder excessive. Performed  19N08B
+19N08C
+Verified drivers running board binding, Removed and replaced  running board motor for drivers side. Now working properly
+16487A
+could not duplicate concern. In history all 4 anti-theft alarm alerts triggered by interior sensors detecting movement
+NPF
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Raised and inspected for leak. Found oil to be leaking from oil pan. Recommend following procedure in TSB 19-2189. Removed oil pan, cleaned mating surface  192189B
+KEYLESS CODE IS 95795  CUT AN PROGRAMMED 1 KEY.
+Found DTC U0253 after the FDRS self test, Started pinpoint test Q, Q1-no observable symptom present-CLEAR the DTC. The system is operating normally at this  NPF
+tested both driver and passenger seat massager buttons on the screen, couldn't verify the concern.
+Took the vehicle on the highway for a test drive, found noise from passenger side floor, lifted the vehicle and inspected the chassis, found RH skid plate  MTRATTLE
+Found both wheel well liners soaked with water, getting soft and out of shape. repositioned the wheel well liners, and the one side is still falling down.   Verified concern, ran self test and have code C110C-13. Performed pinpoint test D. D1 yes, D2 yes (Need extra time to gain access to VDM buy removing RR  12651D
+12651DX1
+12651D45
+18124A
+Replaced catalytic converters per previous diagnosis. Cleared dtcs. Road tested- ok.
+Test drove and checked where oil leak was coming from and found oil pump electrical connector seal is leaking. Removed front cover and removed oil pump  6020A
+6020AXQ
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+RECALL 20S31 PERFORMED
+20S31B
+NEW ONE PIECE BLOCK HEATER CORD INSTALLED
+19S11AA
+REPLACE BOTH REAR SHOCKS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+-TRYED TO START CAR OUTSIDE IN LOT CAR WOULD NOT START. PUT A JUMP PACK ON CAR AN CAR STLL DIDNT START.  PUSHED CAR IN AND READ CODES. FOUND CODES FOR TCM ( REPLACED BOTH POWER RUNNING BOARD MOTORS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Performed self test, P0353. Performed PPT. Wiring test ok for all coils. Checked grounds, ok. Needs new #3 coil. Installed new coil. Cleared code and  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+FOUND STEERING GEAR BINDING UP AN MAKING NOISES ON TURNS. SHOWED BEAU IN THE AIR HOW THE RACK WAS BINDING.  PERFORMED PPT AC. AC6 Y NOISE IS COMING FROM  3504E
+3504E45
+3504E1
+3001A
+3001A6F
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+NEW PASSENGER SIDE MIRROR INSTALLED
+Completed oil change and inspection
+install soft roll cover
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+removed front cover and placed in timing hold downs. While removing the timing tensioner the safety c clip failed to hold the tensioner together. Replaced  8005D
+8501A
+8501AXQ
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Installed new cooling fan assembly. Recheck operation, ok.
+Removed upper intake manifold. Replaced spark plugs. Reinstall manifold.
+DRIVER SIDE FRONT TIE ROD OUTER END REPLACED
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+21S12D  DRIVER AIRBAG INFLATOR REPLACEMENT. removed drivers airbag. removed inflator module. installed new module. installed airbag. all checks ok.  21S12D
+BOTH FRONT SWAY BAR LINKS REPLACED
+replaced inner and outer tie rod ends. used new nuts and cotter pins. performed alignment as per line d
+Aligned vehicle to factory specifications
+Aligned vehicle to factory specifications
+Retrieved cmdtcs- P0276- cylinder # 6 injector circuit low, P0278- cylinder #6 contribution. P0401- egr flow insufficient, P0407- egr sensor B ckt low,  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Verified concern  water pump  making noise
+Replaced water pump also replaced timing belt as per guest request
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Changed engine oil and filter, rotated tires, replaced wiper blades, performed 4 wheel alignment and performed multi-point inspection. tech 2329 and 122159
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Inspected vehicle and used FRDS to check for DTCs. No codes were present. Performed road test and monitored PID data. Found vehicle to have a harsh 7-6  MT7000A
+7000AXQ
+7000AZJ
+7000A2
+7000A11
+7000A50
+3001A
+3001A6
+retrieved cmdtcs- P0012- A camshaft position timing over retarded bank 1. Cleared dtcs and road tested. DTC returned and engine runs poor. Referenced PC/ED.  12650D
+12650DX1
+12650D45
+MT6M280
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Road tested- verified concern. Raised and inspected- found RF tire heavily chopped causing the noise. Recommend mounting and balancing 4 tires and checking  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Passed inspection. Code 1630U Inspect only(all latches confirmed) SSYN187244
+20S30A
+brake condition green all around. Rear brakes like new, 10mm remaining, front brakes 8-9 mm remaining.
+Completed mount and balance of 4 tires
+Aligned vehicle to factory specifications
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Aligned vehicle to factory specifications after replacing suspension components
+Performed Gold Motorcraft Oil Change and MPVI
+Found muffler corroded and coming apart needs muffler  replaced
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced cabin air filter
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed Motorcraft Synthetic Oil and Filter Change and MPVI
+Replaced exterior bulb H11 bulb
+Completed full detail
+Verified a/c works, but compressor cycles quickly which should not occur in a TXV style system. Recovered refrigerant- system fully charged. Re-charged to  Could not duplicate exhaust leak. No broken manifold bolts. Vehicle had long block replaced approximately 7k miles ago
+Replaced front wiper blades
+Performed Gold Motorcraft Oil Change and MPVI
+Replaced both windshield washer nozzles. completed
+Completed Bergstrom used vehicle inspection and oil change
+Completed full detail
+Replaced engine air filter
+Replaced cabin air filter
+Replaced front wiper blades
+Replaced exterior bulb
+Completed four wheel drive service
+Completed transmission service and installed synthetic fluid.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced and programmed new PCM
+Completed tire rotation, set tire pressure, and reset TPMS
+RECALL 19S29 PERFOMRED ON BOTH FRONT POWER SEATS
+19S29C
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Used IDS to check for DTCs. No codes were present. Performed road test and used IDS to monitor PID data. Found vehicle to have a 3-4 shift flare on  12650D
+12650D81
+7000A
+7000AXQ
+7000AZJ
+7000A2
+7000A11
+7000A50
+replace r/f lower ball joint
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Changed engine oil and filter, rotated tires, replaced cabin air filter and performed multi-point inspection
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+REPLACED REAR CAMERA AND HARNESS, CLEANED PARKING BRAKE HARNESS AT SECOND CONNECTOR AS WELL
+3 days loaner
+TIGHTENED CLAMP TO SPEC. INSTALLED DYE INTO SYSTEM. CUSTOMER WILL RETURN AFTER PUTTING MORE MILES ON VEHICLE.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+REMOVED AND REPLACED FRONT FLEX BRAKE HOSES AND BLED BRAKE SYSTEM PER RECALL ALL OK PASS.
+20S42B
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Replaced fuel filter
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed mount and balance of 4 tires
+Verified concern 2017-2019 F-250/F-350 4WD: Replace The Steering Linkage Damper Includes Time To Check And Adjust Tire Pressure (Do Not Use With Any Other  212173A
+Replaced left front strut assembly
+Removed transmission and disassemble. Found failed seal and torque converter. Recommend overhaul.
+bed liner installed
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+recall 20s42. removed front brake hoses. installed new hoses w washers. bled front brakes. all checks ok
+20S42
+20S42B
+Replaced cabin air filter
+VERIFY NO START. U0101. ORDER TCM. ATTEMPT TO INSTALL AND PROGRAM TCM FROM AMAZON. REMOVE AND RETURN AMAZON TCM. INSTALL TCM FROM FORD AND PROGRAM.
+14M02B
+passed   Line B- SSYN066724 Inspect Only (all latches confirmed) • includes time to inspect latches, enter date code  information for review, and submit for  20S30A
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replace both front flexible brake hoses (includes brake system bleed) 20S42B 1.0 Hours
+20S42B
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+installed tonneau cover
+Replaced cabin air filter
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Completed Motorcraft Synthetic Oil and Filter Change and MPVI
+recall 19s38 completed, replaced front section of the drive shaft, out put flange, installed rear diff damper. test dove the vehicle
+19S38D
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+COMPLETED RECALL 20S31C
+20S31B
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+2015-2020 F-150 With Center Console: Inspect And Replace Instrument Panel Upper Section
+DR202268C
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+21S12  DRIVER AIRBAG INFLATOR REPLACEMENT. removed drivers airbag. removed airbag module. installed new module. installed airbag. all checks ok.  21S12D
+Replaced front wiper blades FRONTS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Replace ttansfer case
+replace r/f lower ball joint
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Confirmed misfire and engine running rough. upon inspection found coolant tank to be empty. using ids performed self test of pcm and code po302. power  DR202100A
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Found DTC P0302, cylinder 2 misfire from IDS self test, swapped ignition coil 1 and 2, tested vehicle power balance with engine running, but cylinder 2 was  replaced cylinder head, cleared DTCs and post road tested the vehicle
+couldn't verified the concern
+verified the concern, updated SYNC to newest version, tested buttons and blue tooth.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed software update
+Completed oil change and inspection
+Completed tire rotation, set tire pressure, and reset TPMS
+TIRE REPAIRED PER CUSTOMER. TIRE HAS RUN FLAT DAMAGE ON INSIDE AND OUTSIDE SIDEWALLS. DO NOT RECOMMEND DRIVING VEHICLE UNTIL TIRE IS REPLACED.
+couldn't verify the concern
+rental
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Used IDS to check for DTCs.
+P0720   OSS sensor circuit    P0722   OSS sensor no signal
+Performed visual inspection and ran oasis. Found 16N02. Followed and found faulty lead frame. Replaced transmission leadframe. Gasket and connector sleeve  16N02B
+Performed cooling system diagnosis. Pressure tested cooling system and inspected for leaks. Found coolant to be leaking from the thermostat Tee hose  Replaced all 8 spark plugs
+Completed fuel induction service.
+Replaced exterior bulb,  spliced in new connector and replace license plate lamp socket
+Replaced both front strut assemblies.
+Replaced Front brake pads and rotors
+Replaced the thermostat Tee hose and installed new upper radiator hose o-ring. Cleaned and filled with new coolant
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Tested vehicle operation. Used IDS to check for DTCs
+P0722 tOutput Shaft Speed Sensor Circuit No Signal
+Performed visual inspection and ran oasis. Found 19N01. Followed diagnosis and found faulty transmission lead frame. Proceeded with removal of the main  19N01B
+Performed Gold Motorcraft Oil Change and MPVI
+GUEST NEEDED LOANER FOR B.O. PARTS ON RECALL 19N01 10 DAYS
+Inspected and verified low engine coolant level. Added coolant and performed cooling system pressure test. Inspected for leaks. None were found. Ran vehicle  Replaced all 8 spark plugs
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed fuel induction service.
+Replaced engine air filter
+Replaced right front sway bar link and hardware
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed road test. Found vehicle to have a loud rattle noise from the engine area. Also noticed vehicle to have a harsh reverse engagement and firmer than  MT7000A
+7000AXQ
+7000AZJ
+7000A2
+7000A13T
+7000A11
+3001A
+3001A6F
+PROVIDED GUEST WITH LOANER VEHICLE FOR DURATION OF REPAIR, 10 DAYS APPLIED FOR
+Completed full detail
+Completed PDI inspection
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Verified check engine light. Used IDS to retrieve DTCs.
+P0303 Cylinder 3 misfire P0305 Cylinder 5 misfire
+Performed visual Inspection and ran oasis. Found Cylinder 3 ignition coil bolt was broken and not secured. Temporarily secured. Advise repair. Performed  5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Tested HVAC operation. Found system to be blowing cold. Monitored pressures. Verified sufficient charge. Used IDS to check for DTCs. No HVAC codes were  Completed 20B53 recall. Replaced fuel pump driver module
+20B53B
+20B53B
+Completed 19S38 recall. Replaced driveshaft portion and flange. Installed vibration damper
+19S38F
+Replaced front wiper blades
+Completed fuel induction service.
+Replaced both valve covers. One bolt snapped on the bank 1 valve cover during removal. Additional time to extract broken bolt
+Proceeded with replacement of all the fuel injectors. During removal of the intake manifold, found 4 of the bolts heads to be rusted off. Insufficient  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Full Synthetic 5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed  Completed Motorcraft Synthetic Oil and Filter Change and MPVI
+completed works
+NEEDS BLOWER MOTOR REPLACED
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced exterior bulb
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Road test, cannot verify noise. Raise truck on hoist. Checked all front and rear suspension components, all ok. Checked steering all ok. Checked for  Inspected vehicle. No fault lamps were illuminated. Used IDS to check for DTCs. no coded present. Performed road test and used IDS to monitor PID data.  12650D
+12650D81
+7000A
+7000AXQ
+7000AZJ
+7000A2
+7000A11
+7000A50
+Replaced brake pads or shoes
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Changed engine oil and filter, rotated tires, replaced cabin air filter and performed multi-point inspection
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed oil change and inspection
+TEST DRIVE MULTIPLE TIMES TO PIN POINT NOISE. REMOVE SPARE & INTERIOR TRIM TO TRACE. DETERMINED CALIPER LOOSE & CREATING NOISE. RECOMMEND NEW RIGHT REAR  REPLACED CALIPER. VERIFIED FIX.
+Lifted the van, shook the steering wheel, found noise from RF strut bearing.
+programmed transmitter
+Completed PDI inspection  DOOR CODE IS 38499
+Completed PDI inspection door code 35350
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  found oil leak from engine front cover
+oil leaking. add dye clean. come back in 500 miles
+Resurfaced or replace front or rear brake rotors
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Blower motor noisy, Replaced blower motor now working properly
+ROAD TEST, NOISE APPEARS TO BE FROM LEFT REAR SUNSHADE. ATTEMPT TO INSULATE PLASTIC PIECES, UNSUCCESFUL. ORDER SUNSHADE
+ROAD TEST, UNABLE TO CONFIRM CONCERN. INSTALL FDRS AND CHECK FOR FAULT CODES, PASS. CHECK SERVICE BULLETINS AND MESSAGES.
+12650D
+ORDERED PANEL - BACKORDER WILL CONTACT WHEN
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced front wiper blades
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced brake pads or shoes
+Completed budget vehicle inspection ; rear brakes replace rear pads and rotors Mount and balance 4 tires front cover leaking and oil pan leaking  replaced pads and rotors
+Completed mount and balance of 4 tires
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Blower motor noisy, Replaced blower motor now working properly
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Aligned vehicle to factory specifications
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced engine lock block assembly as per guest requested. Added oil and filter and coolant . Road tested vehicle runs properly . Low tire light on   Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Replaced engine air filter
+Replaced engine air filter
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Removed timing belt cover and valve cover.  Check camshaft and phaser timing, ok. Checked valve clearance for all valves, all within spec. Reinstall valve  Completed PDI inspection Keyless 30015
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Ran self test and had code P0302 (misfire #2) checked and found #2 spark plug had blown out of hole. Recommend replacing #2 thread insert,# 2 coil, all  Replace #2 spark plug hole with a insert and replaced #2 coil . Also replaced all spark plugs. If car starts to miss fire or check engine light comes back  Replaced front wiper blades
+Completed Bergstrom used vehicle inspection and oil change
+Completed full detail
+Replaced engine air filter
+Replaced cabin air filter
+Replaced wiper blades X3
+Completed tire rotation, set tire pressure, and reset TPMS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed oil change and inspection
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+FOUND TRACES OF AN OLD COOLANT LEAK AN COOLANT BURNT TO THE OIL PAN AREA. PRESSURE TESTED MAIN COOLING SYSTEM FOR 30 MINUTES AT MAX PSI OF 30PSI. FOUND ZERO  NPF
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  COULD NOT DUPLICATE CONCERN
+Performed Gold Motorcraft Oil Change and MPVI
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed 20B53 recall. Replaced fuel pump driver module
+20B53B
+20B53B
+Completed 19S38 recall. Inspected vehicle and found vehicle to be equipped with a permanent u-joint style flange. No repairs required
+19S38E
+Verified warning message. Used IDS to check for DTCS
+P0218  Transmission Fluid Temperature Sensor   A   Over Temperature Condition Engine   P1783  Transmission Over Temperature Condition
+Performed visual inspection and ran oasis. Found vehicle to be low on engine coolant. Added coolant. Performed road test and monitored PID data. Found  drained oil. changed oil filter. removed frame crossmember. lowered front diff. removed oil pan. cleaned gasket surfaces. applied rtv to required locations.  5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced front wiper blades
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed transmission service and installed synthetic fluid.
+Replaced all 6 spark plugs. Found upper intake manifold bolt was heavily rusted and seized in the lower intake manifold. Bolt snapped during removal. Unable  Completed fuel induction service.
+Repaired one tire
+REPLACE EXHAUST MANIFOLDS, STUDS AND NUTS, REPLACE MANIFOLD HEAT SHIELDS. EXTRA TIME FOR EXCESSIVE RUST, ROUNDED OFF NUTS, STUD EXTRACTION
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced the rear axle pinion seal. Cleaned and topped off fluid level
+Replaced lower intake manifold. Rearmost bolt on the lower intake manifold was heavily rusted and had no bolt head left. Required extraction. Filled with  Removed engine cooling module. Replaced radiator. Reassembled and filled with new coolant. Note, 3 radiator support bolts snapped during removal. Additional  Disassembled engine and cleaned and resealed engine front cover. Cleaned and filled with new fluids
+Replaced engine air filter
+VERIFIED CONCERN, RAN SELF TEST AND FOUND P0456 STORED IN PCM. PERFORMED EVAP TEST AND FOUND PURGE VALVE LEAKING. REPLACE PURGE VALVE TO CORRECT CONCERN.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+18S08B  STEERING WHEEL ATTACHMENT BOLT REPLACEMENT.  removed drivers airbag. removed steering wheel bolt. installed new bolt. torqued to spec. installed  18S08B
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed PDI inspection
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced cabin air filter
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed self test, no codes. No bulletins. Road test, can feel what guest is talking about, but it is a normal shift pattern for a 10R80.
+12650D
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed oil change and inspection
+Replaced cabin air filter
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed annual maintenance. Changed engine oil and filter. Performed maintenance inspections. Performed two year recommended maintenance services.  Performed pick up and delivery of guests vehicle. Hooked trailer up and drove to guests desired pick up location. loaded car on the trailer and returned  Lifted the van, shook the steering wheel, found noise from RF strut bearing.  replaced strut bearing.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Confirmed rattle in engine bay found transmission shudder to be causing rattle found TSB 16-0109 DPS6 - AUTOMATIC TRANSMISSION - EXCESSIVE TRANSMISSION  confirmed shudder in transmission found under diagnostic that shudder was out of limits replaced clutch and test drove now working properly
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+RECOMMEND ALIGNMENT, EXTRA TIME FOR DUALLY SETUP
+Aligned vehicle to factory specifications
+replace steering wheel
+completed recall
+MT21B03B
+Replace CHMSL Analog Camera - if equipped (includes time for camera configuration)
+20B39H
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+PERFORMED BCE TEST FOUND C1001:97 AND U2404:92 FAULT CODES IN VEHICLES DATABASE FOR CODES IN THE PRIOR 60 DAYS. FOUND OBSTRUCTION IN THE FRONT GLASS.  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Flushed cooling system and replaced coolant.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed 20S42. Replace both front flexible brake hoses (includes brake system bleed) 20S42B 1.0 Hours
+20S42B
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  RECALL 20S42 PERFORMED
+20S42B
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  verified concern. coming from RF. shook down steering components. found RF wheel bearing to have play. verified proper torque on wheel bearing/hub and brake  2134A
+programmed key. fob not programming. reset PATS system. reprogrammed keys. programmed original fob. new fob not programming. recommend ordering new fob.  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+confirmed shudder in transmission found under diagnostic that shudder was out of limits replaced clutch and test drove now working properly
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+ROAD TEST. HEARD BODY CREAK, PERFORM TSB 20-2093 LUBE SUNROOF WEATHERSTRIPPING
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed four wheel balance
+Replace both front flexible brake hoses (includes brake system bleed) 20S42B 1.0 Hours
+20S42B
+COULD NOT DUPLICATE CUSTOMER CONCERN. STARTED VEHICLE MULTIPLE TIMES NOTHING HEARD FROM UNDER VEHICLE.
+door code 37713.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  VERIFIED CONCERN. PERFORMED A STEERING AND SUSPENSION INSPECTION. FOUND THAT THE FRONT LOWER BALL JOINTS HAD PLAY. REPLACED LOWER BALL JOINTS. BALANCE 4  30K 90K mileage service. replaced engine oil and filter, rotate tires, replaced wiper blades, performed 4 wheel alignment, replaced engine air filter,  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Checked oasis- referenced TSB 21-2173. Replaced steering damper per TSB. completed
+212173A
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Repaired one tire
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Repaired one tire
+Completed oil change and inspection
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Changed engine oil and filter, rotated tires, replaced cabin air filter and performed multi-point inspection
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Bolt in shift lever broke off. Had to drill out bolt to remove shift lever. Needs new shift lever and bolt.
+Replaced front wiper blades
+Inspect Lighting
+Tire Rotation
+Oil Change - GAS
+Inspect Belts & Hoses
+Inspect & Top Off Fluids
+Inspect Brakes
+Inspect Battery Condition
+Perform 27 Point Inspection
+Replaced engine air filter
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+replaced glove box retaining string.
+REMOVED FRONT BRAKE HOSES FROM VEHICLE AND REPLACED WITH A NEW SET OF HOSES AN WASHERS. BLED BRAKE SYSTEM ALL OK PASS. VEHICLE READY FOR PICKUP. 20S42B
+20S42B
+Road force balanced 4 tires
+Aligned vehicle to factory specifications
+Need to replace vacuum hose and recheck IWE's
+Completed tire rotation, set tire pressure, and reset TPMS
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Replaced brake pads or shoes
+Aligned vehicle to factory specifications
+BALANCED WHEELS
+OPERATING AS DESIGNED
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+REPLACED THROTTLE BODY, TEST DRIVE OK AFTER REPAIR
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+REPLACED FRONT LOWER BALL JOINTS. VERIFIED FIX.
+REPLACED FRONT LOWER BALL JOINTS. VERIFIED FIX.
+Road force balanced 4 tires-2 TIRES HAD EXCESSIVE ROAD FORCE. BALANCE WAS OFF. RIGHT REAR RIM WAS NOT ABLE TO BALANCE WELL. POSSIBLE RIM DAMAGE.
+Aligned vehicle to factory specifications
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Aligned vehicle to factory specifications
+Aftermarket Chrome is peeling up at top section.  Chrome trim is added on, not factory. Unable to source new part at this time. Trim piece is adhesive  Verified concern, vibration from vehicle on acceleration, feels like its from rear of vehicle. Referenced SSM 46965. Directed to replace rear clutch  7453D
+7453D11
+Recommending both a battery and an alternator. battery damage due to over charging from alternator.  est. 2.0hrs
+Replaced battery
+Ran diag  for radio reception, No codes  Removed ACP as per PPT B1 through B17  ACM passed  AM/ FM/satellite radio/ GPS antenna. inop Need antenna replaced  Replace Front Wiper Blades
+Perform Wheel Alignment
+Inspect & Top Off Fluids
+Inspect Brakes
+Perform 27 Point Inspection
+Oil Change - GAS
+Inspect Belts & Hoses
+Tire Rotation
+Inspect Battery Condition
+Inspect Lighting
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed mount and balance of 4 tires
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Completed Bergstrom used vehicle inspection and oil change
+Completed full detail
+Replaced engine air filter
+Replaced cabin air filter
+Replaced wiper blades X3
+Completed tire rotation, set tire pressure, and reset TPMS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Full Synthetic 5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed  Completed budget vehicle inspection FAIL. FOUND BOTTOM OF OIL PAN ROTTED OUT AN SEVERELY LEAKING AS ITS ABOUT TO LET GO, FRONT WINDOWS ARE INOP AT TIMES,  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+see line d
+Replaced master cylinder and bled brakes. completed
+20S31B
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Inspect Brakes
+Inspect Battery Condition
+Inspect Belts & Hoses
+Inspect & Top Off Fluids
+Perform 27 Point Inspection
+Oil Change - GAS
+Replace Cabin Air Filter
+Inspect Lighting
+Tire Rotation
+20S42  FRONT BRAKE FLEXIBLE HOSE LEAKS. removed front wheels. removed brake hoses. installed new hoses w washers. performed front brake bleed. topped off  20S42B
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+19G01F  ENGINE BLOCK HEATER CORD REPLACEMENT. removed old heater cord. removed intake. removed drive belt. removed alternator. installed new heater cord.  19G01F
+Premium protection package--Applied exterior paint, interior, molding, and headlamp products. Paint less dent protection.  Also provided new car care kit  Tire Rotation
+Perform 27 Point Inspection
+Oil Change - GAS
+Inspect Lighting
+Inspect Battery Condition
+Inspect Brakes
+Inspect & Top Off Fluids
+LATCHES PASSED INSPECTION.  APPROVAL CODE SSYN660256.
+20S30A
+21S12D drivers airbag replacement. removed drivers airbag. installed new airbag. 3lzz196g15989
+21S12C
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Ran diag  for radio reception, No codes  Removed ACP as per PPT B1 through B17  ACM passed  AM/ FM/satellite radio/ GPS antenna. inop Need antenna replaced  Completed full detail
+Ran diag drivers running board only moves  half  the way and stops  motor is binding up. Needs running board motor replaced
+Replaced brake pads or shoes
+PARTS TO CUT KEY. NO PROGRAM NEEDED
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Replaced brake pads or shoes
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed oil change and inspection
+found lh temp blend door to be clicking removed dash and hvac case installed new actuator and installed hvac core and dash and now works properly
+#8 failed spark plug, porcelain cracked and arcing. replaced under service part warranty
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced engine air filter
+REMOVED REAR EXPLORER BADGE ON THE REAR DECKLID OF VEHICLE AND REMOVED AND REPLACED REAR CAMERA ASSMEBLY. REINSTALLED REAR HATCH TRIM PANELING AND PERFORMED  20C19F
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed mount and balance of 4 tires
+Completed Motorcraft Synthetic Oil and Filter Change and MPVI
+Replaced engine air filter
+B1 S2 OXYGEN SENSOR STRIPPED OUT AND THE WIRING CUT TO THE SENSOR. REMOVED STRIPPED OUT SENSOR FROM THE EXHAUST SYSTEM AND INSTALLED NEW SENSOR CUSTOMER  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed PDI inspection
+could not verify SES light on at this time. Retrieved cmdtcs- P1000- check of all systems not complete since last memory clear. Guest to return if/when SES  install hvac module
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Replaced engine oil and filter, rotated tires, replaced wiper blades, performed 4 wheel alignment, replaced engine air filter, serviced automatic  Performed new vehicle PDI. Inspected vehicle, installed loose hardware and performed road test
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Full Synthetic 5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed  dtc p0302, p0316. performed relative compression test, pass. performed power balance test, checks ok. performed evap test, pass. removed cylinder 2 coil and  removed coil packs. removed sparkplugs. installed new spark plugs. installed coil packs. all checks ok
+Installed guest supplied aerodynamic screens and battery charge port. Cleaned openings. Installed wheel opening screens. Used gorilla tape to seal lower  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed mount and balance of 4 tires
+replace rear outer wheels
+100,000 mileage service. Performed oil change and filter, rotated tires, serviced coolant system, serviced brake fluid and replaced cabin air filter.  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+SES light not on at this time, retrieved cmdtcs- P051B- crank case pressure sensor disconnected. Performed pinpoint testing- leads to failed sensor.
+Road force balanced 4 tires
+Completed Bergstrom used vehicle inspection and oil change
+Completed full detail
+Replaced engine air filter
+Replaced cabin air filter
+Replaced wiper blades
+Completed tire rotation, set tire pressure, and reset TPMS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Full Synthetic 5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Lowered headliner in the rear. Replaced antenna. Reinstall headliner and check operation, ok.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Ran diag codes P0016  found timing chain stretched  and needs to be replaced
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed 21S12. Replace driver airbag inflator and knee bolster bracket – Ranger only 21S12B 0.9 Hours NEW# 3DJR053111617
+21S12B
+Completed transmission service and installed synthetic fluid.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed tire rotation, set tire pressure, and reset TPMS
+PERFORM OIL LEAK DYE TEST. INSPECTED & FOUND VALVE COVER GASKET TO BE LEAKING, ALSO OIL FILTER GASKET FAULTY. RECOMMEND REPLACEMENT. TEST DRIVE, CONFIRM  VERIFIED CONCERN. PERFORMED A OIL LEAK DYE TEST. FOUND THAT THE VALVE COVER GASKET IS LEAKING. ALSO THE OIL CAP AND EXTENDER LEAKING. FOUND FAILED GASKET ON  Completed tire rotation, set tire pressure, and reset TPMS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Full Synthetic 5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Changed engine oil and filter.
+Completed full detail
+Ran diag  code P0016 found Primary timing chain stretched Cahin needs to be replaced
+7,500 37,500 52,500 82,500 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses.  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+ENGINE PERFORMANCE DIAG, P0116 VEHICLE IN OVERHEAT SAFE MODE, CHECK COOLANT LEVEL, OK. SSM 47710 APPLIES. RECOMMEND BCM REPROGRAMMING.
+Passed 1620U
+20S30A
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed mount and balance of 4 tires
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced brake pads or shoes
+Completed mount and balance of 4 tires
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed mount and balance of 4 tires
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Could not verify
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced engine air filter
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Replaced cabin air filter
+Replaced fuel filter
+Replaced front wiper blades
+Completed Bergstrom used vehicle inspection and oil change
+SES light not on at this time. Retrieved cmdtcs- P051B- crankcase pressure sensor disconnected. Referenced PC/ED- performed pinpoint test HG. HG1- yes, HG3-  Road force balanced 4 tires
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  diagnosed and found ac dryer leaking, recommended replacement, replaced ac dryer
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced engine air filter
+Replaced engine air filter
+Connected IDS code B0061 64. Completed pin point tets AX1 through AX11 Replaced passenger front seat belt buckle assembly Now passed all tests after repair  Test battery and charging system
+Inspect front and rear suspension
+Tire Rotation
+Inpsect belts, hoses, steering, exhaust and check all lights
+Check fluids and inspect for leaks
+Oil Change - GAS
+Check and set tire pressures and check tread depth and wear pattern
+Perform Wheel Alignment
+Replace Cabin Air Filter
+Automatic Transmission Service
+Replace Engine Air Filter
+Replace Spark Plugs
+Inspect Belts & Hoses
+Inspect vacuum hoses
+Perform 27 Point Inspection
+Inspect fuel system for damage and leaks
+Replace Front Wiper Blades
+Complimentry hand car-wash
+Inspect drive shaft and boots
+Inspect Lighting
+Inspect suspension mounting bolts
+Inspect Brakes
+Inspect steering box, linkage and boots, lower and upper ball joints
+Replaced exterior bulb
+Replaced brake pads or shoes
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Replaced exterior bulb
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Installed new air bag per 21S12D. Serial number- 31ZZ171F14619
+21S12D
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+REPROGRAM BCM
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Replaced exterior bulb
+PERFORM 60K MAINTENANCE
+Ran diag  code P0016 found Primary timing chain stretched Primary timing chain  needs to be replaced . Replaced chain and all needed gaskets and seals added  Completed tire rotation, set tire pressure, and reset TPMS
+Checked  power steering and found pump front seal leaking. removed drive belt. removed pump. installed new pump. installed drive belt. bled p/s system.  Completed full interior and exterior detail
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  completed recall
+19S38D
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  REPLACEMENT OF BOTH FRONT CV AXLES
+Completed four wheel brake inspection. Brake condition green on both axles.
+installed bike hitch. no issues at all
+replaced left front TPMS sensor
+21C09A collision Rear View Camera Image Processing Module B (IPMB). programmed IPMB module. cleared dtcs. all checks ok
+21C09B
+Completed mount and balance of 2 tires
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Checked  power steering and found pump front seal leaking. replaced pump added fluid  no longer has leak's
+Replaced battery
+Removed shift lever and inspect. Found shift lever bolt broke off in lever. Installed new shift lever and bolt. Recheck operation, ok.
+REPROGRAM BCM
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  recommend oil pan. tsb for this truck being made at the Dearborn Truck Plant before 2018
+Replaced engine oil and filter, rotated tires, replaced wiper blades, performed 4 wheel alignment, replaced engine air filter, serviced automatic  Replace Spark Plugs
+Perform Wheel Alignment
+Perform 27 Point Inspection
+Inspect fuel system for damage and leaks
+Replace Front Wiper Blades
+Complimentry hand car-wash
+Inspect Brakes
+Inspect steering box, linkage and boots, lower and upper ball joints
+Inspect Belts & Hoses
+Inspect vacuum hoses
+Tire Rotation
+Inspect drive shaft and boots
+Inspect Lighting
+Inspect suspension mounting bolts
+Replace Cabin Air Filter
+Automatic Transmission Service
+Test battery and charging system
+Check fluids and inspect for leaks
+Oil Change - GAS
+Check and set tire pressures and check tread depth and wear pattern
+Inpsect belts, hoses, steering, exhaust and check all lights
+Replace Engine Air Filter
+Inspect front and rear suspension
+Replaced engine oil and filter, rotated tires, replaced wiper blades, performed 4 wheel alignment, replaced engine air filter, serviced automatic  Completed tire rotation, set tire pressure, and reset TPMS
+VERIFIED CONCERN. PERFORMED A OIL LEAK DYE TEST. FOUND THAT THE VALVE COVER GASKET IS LEAKING. ALSO THE OIL CAP AND EXTENDER LEAKING. FOUND FAILED GASKET ON  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+replaced camera. verified fix.
+VERFIED CONCERN. PERFORMED A SYSTEM DIAGNOSTIC CHECK. FOUND CODE C1001-01 STORED IN SYSTEM. PERFORMED A TSB AND SSM SEARCH. DID NOT FIND ANY MESSAGES  Replace both rear suspension toe links. Check alignment and, if necessary, adjust rear toe.
+19S17D
+19S17C
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top   mount and balance of 4 run flat tires
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+removed and replaced front flex brake hoses and banjo washers and bled brake system all ok pass. Ready for pickup
+20S42B
+performed recall 19S26B installed new steering gear motor bolts to the epas gear. all ok pass Sprayed with conformal rust prevention coating all ok pass.
+19S26B
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed Bergstrom used vehicle inspection and oil change
+Completed full detail
+Replaced engine air filter
+Replaced cabin air filter
+Replaced wiper blades
+Replaced steering damper. completed
+Completed tire rotation, set tire pressure, and reset TPMS
+Check toe link ball joints torque, replace both rear suspension toe links – Vehicles built on or after September 4, 2012, Check alignment and, if necessary,  19S17D
+19S17C
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+VERIFIED CONCERN. RECOMMEND ALIGNMENT.
+Aligned vehicle to factory specifications
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Ran self test and have code P0430. Performed pinpoint test HF. HF1-yes, HF2-yes, HF3-no, HF4-yes checked fuel pressure with a mechanical gauge, HF6-no,  12650D
+12650DX1
+12650D45
+9430AL
+Removed cowl and pressure tested cooling system and let sit overnight, pressures didn't drop. Had someone drive vehicle for a extended period of time and  Completed Bergstrom used vehicle inspection and oil change
+Completed full detail
+Replaced engine air filter
+Replaced cabin air filter
+Replaced wiper blades
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  REPLACED SEC0ND ROW DRIVER SIDE SEATBELT BUCKLE
+REPLACED SEC0ND ROW DRIVER SIDE SEATBELT BUCKLE,
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed tire rotation, set tire pressure, and reset TPMS
+Rear wiper arm and blade missing
+Completed mount and balance of 4 tires
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed mount and balance of 4 tires
+pass 1624P SSYN743626
+20S30A
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed Motorcraft Synthetic Oil and Filter Change and MPVI
+PASS INSPECTION REMOVED AND REPLACED OUTER TOE LINK BOLTS AN HARDWARE PER RECALL ALL OK PASS 20S62B
+20S62B
+Aligned vehicle to factory specifications
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+REPLACED BOTH FRONT AXLES. FOUND LEFT FRONT AXLE BOOT SPLIT ASWELL AS THE RIGHT SIDE BUT THE VIBRATION THAT WAS HEAVY AT 20 MPH OR SO WAS THE JOINT INSIDE  REMOVED INTAKE REPLACED GASKETS AND ALL SPARK PLUGS ALL OK PASS
+recommend oil pan. tsb for this truck being made at the Dearborn Truck Plant before 2018
+Completed mount and balance of 1 tire
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Synthetic oil and filter change, Tire Rotation, Multi Point Inspection, Cabin air filter, Battery Test, Washer Fluid Filled, Added freshener spray, Complete  Changed engine oil and filter, rotated tires, replaced cabin air filter and performed multi-point inspection
+Synthetic oil and filter change, Tire Rotation, Multi Point Inspection, Cabin air filter, Battery Test, Washer Fluid Filled, Added freshener spray, Complete  100,000 mileage service. Performed oil change and filter, rotated tires, serviced coolant system, serviced brake fluid and replaced cabin air filter.  Replaced engine air filter
+Replaced engine air filter
+Recall 21S12   Replace driver airbag inflator – Fusion, Milan, and MKZ/Zephyr only 21S12D 0.3 Hours  #3IZZ178F1713
+21S12D
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Rear wiper arm and blade missing. Wiper arm is seized on the motor shaft. Will need to cut it off and may cause damage to glass or motor.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+replaced front and rear brake pads and rotors.
+Replaced front and rear brake pads and rotors, LF caliper bracket slide pin was seized and bent, replaced LF caliper bracket
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed Gold Motorcraft Oil Change and MPVI
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Repaired one tire
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+replaced front brake lines per recall. then bled and test drove
+20S42B
+Completed mount and balance of 4 tires. Declined TPP and alignment
+Repaired one tire
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed oil change and inspection
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  MISSING CLIPS THAT HOLD THE GLOVE BOX IN PLACE.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+MISSING CLIPS THAT HOLD THE GLOVE BOX IN PLACE.
+Replaced engine air filter
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Replaced engine air filter
+HCU/ABS MODULE FAILED TEST, NEED TO ORDER NEW HCU TO PROCEED WITH RECALL.  19S54ZZ
+19
+19S54K
+Rental vehicle, parts on backorder for repair
+REPLACE DRIVER AIRBAG INFLATOR PER RECALL 21S12.  AIRBAG NUMBER 31ZZ178F17032
+21S12D
+found fuel door housing hinge pins to be broken. recommend replacement of housing.
+REPLACE MUFFLER AND TAILPIPE
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed mount and balance of 4 tires
+performed alignment check. test drove. all checks ok
+Completed interor detail
+VERFIED CONCERN. PERFORMED A SYSTEM DIAGNOSTIC CHECK. FOUND CODE C1001-01 STORED IN SYSTEM. PERFORMED A TSB AND SSM SEARCH. DID NOT FIND ANY MESSAGES  ENGINE PERFORMANCE DIAG. REPLACE CATALYST MONITOR SENSOR. REPROGRAM PCM
+REPLACE CATALYST MONITOR SENSOR, PCM REPROGRAM
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+dtc p0300, p0302, p0316. no bulletins. performed power balance test, no irregularities found. performed relative compression test, checks ok. removed  12650D
+12650DX1
+12650D47
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Inspect Belts & Hoses
+Inspect & Top Off Fluids
+Oil Change - GAS
+Replace Cabin Air Filter
+Perform 27 Point Inspection
+Inspect Brakes
+Inspect Battery Condition
+Inspect Lighting
+Tire Rotation
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced engine air filter
+Completed mount and balance of 4 tires
+Replaced cabin air filter
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced front wiper blades
+Completed Motorcraft Synthetic Oil and Filter Change and MPVI
+verified concern. removed the pillars. installed new pillars. verified fix.
+25556AT
+verified concern. removed the weather strip. installed new weather strip. verified fix.
+21452A
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed transmission service and installed synthetic fluid.
+Performed Gold Motorcraft Oil Change and MPVI
+Completed tire rotation
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced engine air filter
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Premium protection package--Applied exterior paint, interior, molding, and headlamp products. Paint less dent protection.  Also provided new car care kit  VERIFIED CUSTOMER CONCERN. PERFORMED A TSB AND SSM SEARCH. NO MESSAGES FOUND FOR CONCERN. PERFORMED AN INSPECTION ON THE REAR SUBWOOFER AREA. REMOVED THE  MTRATTLE
+Replaced engine air filter
+Completed Bergstrom used vehicle inspection and oil change
+Completed full detail
+Replaced engine air filter
+Replaced cabin air filter
+Replaced front wiper blades
+Completed tire rotation, set tire pressure, and reset TPMS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed fuel induction service.
+Completed fuel induction service.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Verified SES light on. Retrieved cmdtcs- P0457- large evap leak detected. Attempted to perform IDS evap system leak test- unable to pull vacuum. Removed dog  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  replaced pads and rotors
+Completed mount and balance of 4 tires
+Replaced rear pinion seal and checked fluid.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Replaced fuel filter
+diagnosed and found ac dryer leaking, recommended replacement, replaced ac dryer. Replaced receiver dryer and charged A/C system.
+Replaced engine air filter
+Replaced cabin air filter
+Replaced front wiper blades
+Replaced front wiper blades
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  installed hood protector
+Reprogram the PCM to the latest level using FDRS. Advise the customer that this vehicle is equipped with an adaptive transmission shift strategy which  21B37B
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  CONCERN NOT PRESENT AT THIS TIME.
+Completed full detail
+Replaced engine air filter
+Replaced cabin air filter
+Replaced front wiper blades
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Aligned vehicle to factory specifications
+MBASIC
+MBASIC1
+MULTI
+Completed tire rotation, set tire pressure, and reset TPMS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Performed Gold Motorcraft Oil Change and MPVI
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed mount and balance of 4 tires
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Replaced hood latch assembly
+ADD
+16700A
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Replaced front and rear brake pads and rotors
+REPLACED TAIL LAMP ASSM LR
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Full Synthetic 5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Completed brake fluid service.
+Pressure tested cooling system- after 1 hour- 1 psi lost. Raised and inspected- found coolant witness marks around oil filter area. Removed inner fender  8005DD
+MT6026
+Retrieved cmdtcs- TCM- P07F6- gear 9 incorrect ratio. Cleared dtcs and Road tested- no further DTCS return. Checked oasis, referenced TSB 21-2056- directed  212056A
+Retrieved cmdtcs- PSCM- C1B00- steering angle sensor, U0415- invalid data received from ABS control module, U3000- control module. RCM- U0415- invalid data  12651D
+12651DX1
+12651D45
+10654C
+10654C1
+MT3G568
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced brake pads or shoes
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced the ps front and ps rear calipers. Could not complete the brake bleed due to failing abs module and hcu. Recommend replacement of the hydraulic  5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Changed engine oil and filter, rotated tires, replaced cabin air filter and performed multi-point inspection
+NO WORK PERFORMED
+REMOVED AND REPLACED FRONT FLEX BRAKE HOSES AN BLED BRAKE SYSTEM ALL OK PASS.
+20S42B
+Completed four wheel brake inspection FOUND ALL PADS 9-10MM OF LIFE LEFT. SHOULD BE SET FOR ANOTHER 40K MILES OR SO. PERFORMED ROAD TEST AN FELT NO  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed oil change and inspection
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+REPLACE CATALYST MONITOR SENSOR, PCM REPROGRAM
+Removed front wheels and torqued hub extensions per WSM procedure. Re-installed and torqued front wheels. completed
+21S26B
+seepage at this time but will get worse over time
+Completed full detail
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Changed engine oil and filter, rotated tires, replaced cabin air filter and performed multi-point inspection
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Verified concern. Checked for dtcs and found B115E. Checked oasis and referenced SSM 45784. Updated HVAC module to latest software version. Cleared dtcs,  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Flushed cooling system and replaced coolant.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  ROAD TEST NO NOISE, VIBRATION OR PULL. INSPECT PADS AND ROTORS. FRONT AND REAR 4 MM
+removed rear brake pads and rotors, found RR caliper leak
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Road test, verified harsh downshifts. Performed self test, no DTC's, Checked for TSB's, none. Clear out adaptive transmission tables and performed Adaptive  NPF
+Verified concern. Updated sync module per TSB, 21-2125. Recheck operation, ok.
+212150A
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed tire rotation, set tire pressure, and reset TPMS
+21S12D  DRIVER AIRBAG INFLATOR REPLACEMENT. removed drivers airbag, removed airbag module. installed new module. installed airbag. all checks ok.  21S12D
+Replace driver airbag inflator – Fusion, Milan, and MKZ/Zephyr only 21S12D 0.3 Hours 31ZZ164F21007
+21S12D
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Repaired one tire
+99793 IS DOOR CODE
+REPLACED POWER OUTLET COVER.
+Verified concern, performed 13N02. 2011-2013 Install a new brake booster 13N02C 2.0 Hours
+13N02C
+Completed four wheel brake inspection
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+found metal in oil. found failing timing chains caused by low oil pressure. guest advised of rotten frame. evacuated refrigerant. drained oil. drained  5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+found DTC p0303, cylinder 3 misfiring. removed upper intake manifold swapped cylinder 2 and 3 ignition coils. started the vehicle, checked power balance,  REPLACE SPARK PLUGS AND NO. 3 IGNITION COIL
+Checked rotor thickness- LF- 1.175
+RF 1.180  . Minimum specification in WSM shows 1.260  . Replaced front brake pads and rotors.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Completed four wheel brake inspection
+PERFORMED A BRAKE INSPECTION. FOUND FRONT BRAKE PADS WORN AND HAVE METAL TO METAL CONTACT. RECOMMEND REPLACEMENT OF FRONT BRAKE PADS AND ROTORS.
+PERFORMED A BRAKE INSPECTION. FOUND THAT THE REAR BRAKE PADS AND ROTORS HAVE METAL TO METAL CONTACT. RECOMMEND REPLACEMENT.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced exterior bulb
+Replaced exterior bulb - RIGHT REAR TURN SIGNAL. VERIFIED FIX.
+Replaced exterior bulb - RIGHT REAR TURN SIGNAL. VERIFIED FIX.
+REPLACE SPARK PLUGS AND NO. 3 IGNITION COIL
+If sold the spark plugs pls don't charge the labor time for the ignition coil
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+replaced skid plate
+Repaired one tire
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  Replaced front wiper blades
+Suspension Shock or Strut R&R - RIGHT
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+removed cylinder 1 ignition coil, found missing coil boot
+PERFORMED A BRAKE INSPECTION. FOUND FRONT BRAKE PADS WORN AND HAVE METAL TO METAL CONTACT. RECOMMEND REPLACEMENT OF FRONT BRAKE PADS AND ROTORS.
+PERFORMED A BRAKE INSPECTION. FOUND THAT THE REAR BRAKE PADS AND ROTORS HAVE METAL TO METAL CONTACT. RECOMMEND REPLACEMENT.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  test drive the vehicle, no concern has been found
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+EXHAUST HEAT SHIELD
+BOTH INNER TIE RODS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Full Synthetic 5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed  Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Replaced front wiper blades
+Repaired one tire
+Completed mount and balance of 4 tires
+Verified the concern was from the RF door speaker. also found RR door tweeter speaker failure. replaced speakers, tested system.
+0.5hr for Diag 0.6hr for each speaker
+Completed mount and balance of 4 tires
+5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  removed cylinder 1 ignition coil, found missing coil boot , removed broken boot from the spark plug, replaced ignition 1, applied electric grease.
+Replace driver airbag inflator – Fusion, Milan, and MKZ/Zephyr only 21S12D 0.3 Hours  #3IZZ164F20977
+21S12C
+Replaced front wiper blades
+REMOVED AND REPLACED FAULTY POWER MIRROR ASSM AN SWAPPED OVER MIRROR COVER. ALL OK PASS
+Completed tire rotation, set tire pressure, and reset TPMS
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Performed certified multi-point vehicle inspection. Submitted vehicle inspection form with vehicle status.
+Performed Gold Motorcraft Oil Change and MPVI
+Road tested while monitoring PIDS- could not duplicate engine dying at stops. Retrieved cmdtcs- P0010- intake cam position actuator circuit bank 1, P0020-  5,000 mileage service required. Performed oil and filter change, tire rotation. Inspected battery, lights, brakes, belts and hoses. Performed MPI and top  dtc c110e:13. LR shock dampener solenoid open. inspected rear shocks, shocks look ok. inspected wiring harness for damage, checks ok. recommend additional  Replace driver airbag inflator – Fusion, Milan, and MKZ/Zephyr only 21S12D 0.3 Hours  #3IZZ149F38154
+21S12D

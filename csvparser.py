@@ -9,7 +9,8 @@ def get_words(path):
     words = []
 
     for line in csv_gen:
-        print(line)
         train_line = line['train_line']
+        train_line.strip('"')
+        print(train_line)
         words.append(train_line)
     return words
